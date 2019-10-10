@@ -1,0 +1,6 @@
+title: Imperial College London machine learning reading group
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
