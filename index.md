@@ -10,7 +10,7 @@ Suggested papers can be found [here](suggested-papers).
 
 | Date          | Presenter     | Paper |
 |--------------:|:-------------:|-|
-| 17/10/19      | George        | |
+| 17/10/19      | George        |Approximate Inference Turns Deep Networks into Gaussian Processes |
 | 24/10/19      | Onur          | |
 | 31/10/19      | Arinbjorn     | |
 | 07/11/19      | Michele       | |
