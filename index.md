@@ -8,11 +8,11 @@ Suggested papers can be found [here](suggested-papers).
 
 ## Schedule
 
-| Date          | Presenter     | Paper |
-|--------------:|:-------------:|-|
-| 17/10/19      | George        |Approximate Inference Turns Deep Networks into Gaussian Processes |
+| Date          | Presenter     | Paper | Author(s) |
+|--------------:|:-------------:|-------|---------|
+| 17/10/19      | George        |[Approximate Inference Turns Deep Networks into Gaussian Processes](https://arxiv.org/abs/1906.01930)| Mohammad Emtiyaz Khan et al.| 
 | 24/10/19      | Onur          | |
-| 31/10/19      | Arinbjorn     | |
+| 31/10/19      | Arinbjörn     | |
 | 07/11/19      | Michele       | |
 | 14/11/19      | Alex          | |
 | 21/11/19      | Sesh          | |
