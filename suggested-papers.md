@@ -5,4 +5,4 @@ title: Suggested papers for future reading group meetings
 
 # Suggested papers
 
-# Neural tangent kernel papers: https://arxiv.org/abs/1905.13654 and https://dl.acm.org/citation.cfm?id=3327948
+Use the issues paper to suggest papers. Active attendees of the reading group are invited to suggest two papers in the first instance (autumn term 2019).
