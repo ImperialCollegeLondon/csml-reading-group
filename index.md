@@ -11,7 +11,7 @@ Suggested papers can be found [here](suggested-papers).
 | Date          | Presenter     | Paper | Author(s) |
 |--------------:|:-------------:|-------|---------|
 | 17/10/19      | George        |[Approximate Inference Turns Deep Networks into Gaussian Processes](https://arxiv.org/abs/1906.01930)| Mohammad Emtiyaz Khan et al.| 
-| 24/10/19      | Onur          | |
+| 24/10/19      | Onur          |[Random Tessellation Forests](https://arxiv.org/abs/1906.05440) | Shufei Ge et al. |
 | 31/10/19      | Arinbjörn     | |
 | 07/11/19      | Michele       | |
 | 14/11/19      | Alex          | |
