@@ -17,5 +17,5 @@ Suggested papers can be found [here](suggested-papers).
 | 14/11/19      | Alex          | |
 | 21/11/19      | Sesh          | |
 | 28/11/19      | Jonathan      | |
-| 14/11/19      |               | |
-| 21/11/19      | Tim           | |
+| 14/12/19      |               | |
+| 21/12/19      | Tim           | |
