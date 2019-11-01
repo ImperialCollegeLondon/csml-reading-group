@@ -13,7 +13,7 @@ Suggested papers can be found [here](suggested-papers).
 | 17/10/19      | George        |[Approximate Inference Turns Deep Networks into Gaussian Processes](https://arxiv.org/abs/1906.01930)| Mohammad Emtiyaz Khan et al.| 
 | 24/10/19      | Onur          |[Random Tessellation Forests](https://arxiv.org/abs/1906.05440) | Shufei Ge et al. |
 | 31/10/19      | Arinbjörn     | [A Scalable Laplace Approximation for Neural Networks](https://openreview.net/pdf?id=Skdvd2xAZ) | Hippolyt Ritter, Aleksandar Botev and David Barber
-| 07/11/19      | Michele       | |
+| 07/11/19      | Kate          | [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/abs/1812.11118)| Mikhail Belkin, Daniel Hsu, Siyuan Ma and Soumik Mandal
 | 14/11/19      | Alex          | |
 | 21/11/19      | Sesh          | |
 | 28/11/19      | Jonathan      | |
