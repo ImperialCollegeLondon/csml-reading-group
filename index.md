@@ -14,12 +14,13 @@ Suggested papers can be found [here](suggested-papers).
 | 24/10/19      | Onur          |[Random Tessellation Forests](https://arxiv.org/abs/1906.05440) | Shufei Ge et al. |
 | 31/10/19      | Arinbjörn     | [A Scalable Laplace Approximation for Neural Networks](https://openreview.net/pdf?id=Skdvd2xAZ) | Hippolyt Ritter, Aleksandar Botev and David Barber
 | 07/11/19      | Kate          | [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/abs/1812.11118)| Mikhail Belkin, Daniel Hsu, Siyuan Ma and Soumik Mandal
-| 14/11/19      | Alex          | |
+| 14/11/19      | Alex          | [An explicit link between Gaussian fields and Gaussian Markov random fields: The SPDE approach](https://pdfs.semanticscholar.org/0a7c/66e70b84b983fa5e85e8af90b81d88b19856.pdf) | Finn Lindgren, Håvard Rue and Johan Lindström
 | 21/11/19      | Sesh          | |
 | 28/11/19      | Jonathan      | |
 | 05/12/19      |               | |
 | 12/12/19      | Tim           | |
-| 19/12/19      |               | |
-| 26/12/19      |               | |
-| 02/01/20      |               | |
+| *Break*       |               | |
 | 09/01/20      |               | |
+| 16/01/20      |               | |
+| 23/01/20      |               | |
+| 30/01/20      |               | |
