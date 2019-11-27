@@ -16,11 +16,11 @@ Suggested papers can be found [here](suggested-papers).
 | 07/11/19      | Kate          | [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/abs/1812.11118)| Mikhail Belkin, Daniel Hsu, Siyuan Ma and Soumik Mandal
 | 14/11/19      | Alex          | [An explicit link between Gaussian fields and Gaussian Markov random fields: The SPDE approach](https://pdfs.semanticscholar.org/0a7c/66e70b84b983fa5e85e8af90b81d88b19856.pdf) | Finn Lindgren, Håvard Rue and Johan Lindström
 | 21/11/19      | Sesh          | [Lost Relatives of the Gumbel Trick](https://arxiv.org/abs/1706.04161)| Matej Balog et al.
-| 28/11/19      | Jonathan      | |
+| *Break for workshop*    |     | |
 | 05/12/19      | Daniel        | |
 | 12/12/19      | Tim           | |
 | *Break*       |               | |
-| 09/01/20      |               | |
+| 09/01/20      | Jonathan      | |
 | 16/01/20      |               | |
 | 23/01/20      |               | |
 | 30/01/20      |               | |
