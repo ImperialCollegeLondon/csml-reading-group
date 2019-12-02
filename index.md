@@ -17,7 +17,7 @@ Suggested papers can be found [here](suggested-papers).
 | 14/11/19      | Alex          | [An explicit link between Gaussian fields and Gaussian Markov random fields: The SPDE approach](https://pdfs.semanticscholar.org/0a7c/66e70b84b983fa5e85e8af90b81d88b19856.pdf) | Finn Lindgren, Håvard Rue and Johan Lindström
 | 21/11/19      | Sesh          | [Lost Relatives of the Gumbel Trick](https://arxiv.org/abs/1706.04161)| Matej Balog et al.
 | *Break for workshop*    |     | |
-| 05/12/19      | Daniel        | |
+| 05/12/19      | Daniel        | [Modelling the Dynamics of Multiagent Q-Learning in Repeated Symmetric Games: a Mean Field Theoretic Approach](https://papers.nips.cc/paper/9380-modelling-the-dynamics-of-multiagent-q-learning-in-repeated-symmetric-games-a-mean-field-theoretic-approach.pdf) | Shuyue Hu, Chin-Wing Leung, Ho-fung Leung
 | 12/12/19      | Tim           | |
 | *Break*       |               | |
 | 09/01/20      | Jonathan      | |
