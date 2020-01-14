@@ -20,6 +20,9 @@ Suggested papers can be found [here](suggested-papers).
 | 05/12/19      | Daniel        | [Modelling the Dynamics of Multiagent Q-Learning in Repeated Symmetric Games: a Mean Field Theoretic Approach](https://papers.nips.cc/paper/9380-modelling-the-dynamics-of-multiagent-q-learning-in-repeated-symmetric-games-a-mean-field-theoretic-approach.pdf) | Shuyue Hu, Chin-Wing Leung, Ho-fung Leung
 | 12/12/19      | Tim           | [A Model to Search for Synthesizable Molecules](https://papers.nips.cc/paper/9007-a-model-to-search-for-synthesizable-molecules.pdf) | John Bradshaw et al.
 | *Break*       |               | |
-| 16/01/20      | Jonathan      | |
-| 23/01/20      |               | |
-| 30/01/20      |               | |
+| 20/01/20      | Jonathan      | [The Kernel Interaction Trick: Fast Bayesian Discovery of Pairwise Interactions in High Dimensions](https://arxiv.org/abs/1905.06501)| Raj Agrawal et al.
+| 27/01/20      |               | |
+| 03/02/20      |               | |
+| 10/02/20      |               | |
+| 17/02/20      |               | |
+| 24/02/20      |               | |
