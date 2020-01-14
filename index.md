@@ -3,7 +3,7 @@ layout: default
 ---
 
 Welcome to the homepage of the Imperial College London machine learing reading group.
-We meet Thursdays at 11:00am in Huxley 642.
+We meet Mondays at 11:00am in Huxley 410.
 Suggested papers can be found [here](suggested-papers).
 
 ## Schedule
