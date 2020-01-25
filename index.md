@@ -21,8 +21,8 @@ Suggested papers can be found [here](suggested-papers).
 | 12/12/19      | Tim           | [A Model to Search for Synthesizable Molecules](https://papers.nips.cc/paper/9007-a-model-to-search-for-synthesizable-molecules.pdf) | John Bradshaw et al.
 | *Break*       |               | |
 | 20/01/20      | Jonathan      | [The Kernel Interaction Trick: Fast Bayesian Discovery of Pairwise Interactions in High Dimensions](https://arxiv.org/abs/1905.06501)| Raj Agrawal et al.
-| 27/01/20      |               | |
-| 03/02/20      |               | |
-| 10/02/20      |               | |
-| 17/02/20      |               | |
-| 24/02/20      |               | |
+| 31/01/20      | Emily         | [Boosting Variational Inference](https://arxiv.org/abs/1611.05559)| Guo et al.
+| 07/02/20      | George        | |
+| 14/02/20      |               | |
+| 21/02/20      |               | |
+| 28/02/20      |               | |
