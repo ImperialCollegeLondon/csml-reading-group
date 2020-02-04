@@ -22,7 +22,7 @@ Suggested papers can be found [here](suggested-papers).
 | *Break*       |               | |
 | 20/01/20      | Jonathan      | [The Kernel Interaction Trick: Fast Bayesian Discovery of Pairwise Interactions in High Dimensions](https://arxiv.org/abs/1905.06501)| Raj Agrawal et al.
 | 31/01/20      | Emily         | [Boosting Variational Inference](https://arxiv.org/abs/1611.05559)| Guo et al.
-| 07/02/20      | George        | |
+| 07/02/20      | George        | [Determinantal point processes for machine learning (chapters 2 and 4)](https://arxiv.org/pdf/1207.6083.pdf)| Alex Kulesza and Ben Taskar
 | 14/02/20      |               | |
 | 21/02/20      |               | |
 | 28/02/20      |               | |
