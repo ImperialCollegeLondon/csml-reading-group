@@ -26,7 +26,7 @@ Suggested papers can be found [here](suggested-papers).
 | 14/02/20      | Kate          | [On Bayesian new edge prediction and anomaly detection in computer networks](https://projecteuclid.org/euclid.aoas/1574910056) | Silvia Metelli and Nicholas Heard
 | 21/02/20      |               | |
 | 28/02/20      | Adriaan       | [A scalable bootstrap for massive data](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12050@10.1111/(ISSN)1467-9868.SERIES_B_VIRTUAL_ISSUE)| Ariel Kleiner et al.
-| 06/03/20      |               | |
+| 06/03/20      | Isak          | [Super-Samples from Kernel Herding](https://arxiv.org/abs/1203.3472)| Yutian Chen, Max Welling and Alex Smola
 | 13/03/20      |               | |
 | 20/03/20      |               | |
 | 27/03/20      |               | |
