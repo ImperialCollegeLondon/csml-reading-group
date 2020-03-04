@@ -6,6 +6,8 @@ Welcome to the homepage of the Imperial College London machine learing reading g
 We meet Fridays at 13:00 in Huxley 658.
 Suggested papers can be found [here](suggested-papers).
 
+To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/csml-reading-group).
+
 ## Schedule
 
 | Date          | Presenter     | Paper | Author(s) |
