@@ -29,6 +29,10 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 21/02/20      |               | |
 | 28/02/20      | Adriaan       | [A scalable bootstrap for massive data](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12050@10.1111/(ISSN)1467-9868.SERIES_B_VIRTUAL_ISSUE)| Ariel Kleiner et al.
 | 06/03/20      | Isak          | [Super-Samples from Kernel Herding](https://arxiv.org/abs/1203.3472)| Yutian Chen, Max Welling and Alex Smola
-| *break*       |               | |
+| 13/03/20      | *break*       | |
 | 20/03/20      | Jonathan & Arinbjörn  | [Benchmarking Bayesian Deep Learning with Diabetic Retinopathy Diagnosis](http://www.cs.ox.ac.uk/people/angelos.filos/publications/diabetic_retinopathy_diagnosis.pdf) | Angelos Filos et al.
 | 27/03/20      |               | |
+| 03/04/20      |               | |
+| 10/04/20      | *break*       | |
+| 17/04/20      |               | |
+| 24/04/20      |               | |
