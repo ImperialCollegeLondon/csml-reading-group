@@ -31,7 +31,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 06/03/20      | Isak          | [Super-Samples from Kernel Herding](https://arxiv.org/abs/1203.3472)| Yutian Chen, Max Welling and Alex Smola
 | 13/03/20      | *break*       | |
 | 20/03/20      | Jonathan & Arinbjörn  | [Benchmarking Bayesian Deep Learning with Diabetic Retinopathy Diagnosis](http://www.cs.ox.ac.uk/people/angelos.filos/publications/diabetic_retinopathy_diagnosis.pdf) | Angelos Filos et al.
-| 27/03/20      |               | |
+| 27/03/20      | Kate          | [Integrated Clustering and Anomaly Detection (INCAD) for Streaming Data](https://www.iccs-meeting.org/archive/iccs2019/papers/115390043.pdf) | Sreelekha Guggilam et al.
 | 03/04/20      |               | |
 | 10/04/20      | *break*       | |
 | 17/04/20      |               | |
