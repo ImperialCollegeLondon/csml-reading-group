@@ -34,5 +34,5 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 27/03/20      | Kate          | [Integrated Clustering and Anomaly Detection (INCAD) for Streaming Data](https://www.iccs-meeting.org/archive/iccs2019/papers/115390043.pdf) | Sreelekha Guggilam et al.
 | 03/04/20      | Emily         | [Deep Unsupervised Clustering with Gaussian Mixture Variational Autoencoders](https://arxiv.org/abs/1611.02648) | Nat Dilokthanakul et al.
 | 10/04/20      | *break*       | |
-| 17/04/20      |               | |
+| 17/04/20      | Daniel        | [Exploring Generalization in Deep Learning](https://papers.nips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf?fbclid=IwAR1VV3K9y95FLA66NfLXQzvoprTMQptaGyLH4KNBQI1l7pRy0ZmkgA3cmFQ)| Neyshabur et al.
 | 24/04/20      |               | |
