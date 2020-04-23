@@ -35,4 +35,4 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 03/04/20      | Emily         | [Deep Unsupervised Clustering with Gaussian Mixture Variational Autoencoders](https://arxiv.org/abs/1611.02648) | Nat Dilokthanakul et al.
 | 10/04/20      | *break*       | |
 | 17/04/20      | Daniel        | [Exploring Generalization in Deep Learning](https://papers.nips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf?fbclid=IwAR1VV3K9y95FLA66NfLXQzvoprTMQptaGyLH4KNBQI1l7pRy0ZmkgA3cmFQ)| Neyshabur et al.
-| 24/04/20      |               | |
+| 24/04/20      | Jonathan      | [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848v4)| Qizhe Xie et al.
