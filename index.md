@@ -36,3 +36,9 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 10/04/20      | *break*       | |
 | 17/04/20      | Daniel        | [Exploring Generalization in Deep Learning](https://papers.nips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf?fbclid=IwAR1VV3K9y95FLA66NfLXQzvoprTMQptaGyLH4KNBQI1l7pRy0ZmkgA3cmFQ)| Neyshabur et al.
 | 24/04/20      | Jonathan      | [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848v4)| Qizhe Xie et al.
+| 01/05/20      | Kai           | [Discovering the Compositional Structure of Vector Representations with Role Learning Networks](https://arxiv.org/abs/1910.09113) | Paul Soulos et al.
+| 08/05/20      |               | |
+| 15/05/20      |               | |
+| 22/05/20      |               | |
+| 29/05/20      |               | |
+| 05/06/20      |               | |
