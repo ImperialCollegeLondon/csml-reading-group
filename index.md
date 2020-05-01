@@ -40,5 +40,5 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 08/05/20      |  *Bank holiday break* | |
 | 15/05/20      |  Sesh         | TBA |
 | 22/05/20      |  Hans         | TBA |
-| 29/05/20      |               | |
+| 29/05/20      |  Isak         | |
 | 05/06/20      |               | |
