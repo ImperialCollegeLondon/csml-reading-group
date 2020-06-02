@@ -42,4 +42,6 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 22/05/20      |  Hans         | [A latent Markov model for detecting patterns of criminal activity](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-985X.2006.00440.x) | Francesco Bartolucci et al.
 | 29/05/20      |  Isak         | [Introduction to Coresets: Accurate Coresets](https://arxiv.org/abs/1910.08707) | Ibrahim Jubran et al.
 | 05/06/20      |  Adriaan      | [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424) | Charles Blundell et al.
-| 12/06/20      |  Janith       | |
+| 12/06/20      |               | |
+| 19/06/20      |               | |
+| 26/06/20      |  Janith       | |
