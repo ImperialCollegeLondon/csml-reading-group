@@ -40,5 +40,6 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 08/05/20      |  *Bank holiday break* | |
 | 15/05/20      |  Sesh         | [Alleviating Label Switching with Optimal Transport](https://arxiv.org/abs/1911.02053) | Pierre Monteiller et al.
 | 22/05/20      |  Hans         | [A latent Markov model for detecting patterns of criminal activity](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-985X.2006.00440.x) | Francesco Bartolucci et al.
-| 29/05/20      |  Isak         | |
-| 05/06/20      |               | |
+| 29/05/20      |  Isak         | [Introduction to Coresets: Accurate Coresets](https://arxiv.org/abs/1910.08707) | Ibrahim Jubran et al.
+| 05/06/20      |  Adriaan      | [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424) | Charles Blundell et al.
+| 12/06/20      |  Janith       | |
