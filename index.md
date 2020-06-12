@@ -45,3 +45,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 12/06/20      |  Kai          | [The frontier of simulation-based inference](https://www.pnas.org/content/early/2020/05/28/1912789117)| Kyle Cranmer et al.
 | 19/06/20      |  Daniel       | |
 | 26/06/20      |  Janith       | |
+| 03/07/20      |               | |
+| 10/07/20      |               | |
+| 17/07/20      |               | |
+| 24/07/20      |               | |
+| 31/07/20      |  Kai          | |
