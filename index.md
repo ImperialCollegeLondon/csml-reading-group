@@ -10,8 +10,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 ## Schedule
 
-| Date          | Presenter     | Paper | Author(s) |
-|--------------:|:-------------:|-------|---------|
+| Date          | Presenter     | Paper | Author(s) | Notes |
+|--------------:|:-------------:|-------|---------|---------|
 | 17/10/19      | George        |[Approximate Inference Turns Deep Networks into Gaussian Processes](https://arxiv.org/abs/1906.01930)| Mohammad Emtiyaz Khan et al.| 
 | 24/10/19      | Onur          |[Random Tessellation Forests](https://arxiv.org/abs/1906.05440) | Shufei Ge et al. |
 | 31/10/19      | Arinbjörn     | [A Scalable Laplace Approximation for Neural Networks](https://openreview.net/pdf?id=Skdvd2xAZ) | Hippolyt Ritter, Aleksandar Botev and David Barber
@@ -36,13 +36,13 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 10/04/20      | *break*       | |
 | 17/04/20      | Daniel        | [Exploring Generalization in Deep Learning](https://papers.nips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf?fbclid=IwAR1VV3K9y95FLA66NfLXQzvoprTMQptaGyLH4KNBQI1l7pRy0ZmkgA3cmFQ)| Neyshabur et al.
 | 24/04/20      | Jonathan      | [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848v4)| Qizhe Xie et al.
-| 01/05/20      | Kai           | [Discovering the Compositional Structure of Vector Representations with Role Learning Networks](https://arxiv.org/abs/1910.09113) | Paul Soulos et al.
+| 01/05/20      | Kai           | [Discovering the Compositional Structure of Vector Representations with Role Learning Networks](https://arxiv.org/abs/1910.09113) | Paul Soulos et al. | [Slides](/presentations/Discovering%20the%20Compositional%20Structure%20of%20Vector%20Representations%20with%20Role%20Learning%20Networks.pdf)
 | 08/05/20      |  *Bank holiday break* | |
 | 15/05/20      |  Sesh         | [Alleviating Label Switching with Optimal Transport](https://arxiv.org/abs/1911.02053) | Pierre Monteiller et al.
 | 22/05/20      |  Hans         | [A latent Markov model for detecting patterns of criminal activity](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-985X.2006.00440.x) | Francesco Bartolucci et al.
-| 29/05/20      |  Isak         | [Introduction to Coresets: Accurate Coresets](https://arxiv.org/abs/1910.08707) | Ibrahim Jubran et al.
+| 29/05/20      |  Isak         | [Introduction to Coresets: Accurate Coresets](https://arxiv.org/abs/1910.08707) | Ibrahim Jubran et al. | [Slides](presentations/introduction_to_coresets.pdf)
 | 05/06/20      |  Adriaan      | [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424) | Charles Blundell et al.
-| 12/06/20      |  Kai          | [The frontier of simulation-based inference](https://www.pnas.org/content/early/2020/05/28/1912789117)| Kyle Cranmer et al.
+| 12/06/20      |  Kai          | [The frontier of simulation-based inference](https://www.pnas.org/content/early/2020/05/28/1912789117)| Kyle Cranmer et al. | [Slides](presentations/The%20Frontier%20of%20Simulation-based%20Inference.pdf)
 | 19/06/20      |  Daniel       | |
 | 26/06/20      |  Janith       | |
 | 03/07/20      |               | |
