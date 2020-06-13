@@ -48,5 +48,5 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 03/07/20      |               | |
 | 10/07/20      |               | |
 | 17/07/20      |               | |
-| 24/07/20      |               | |
+| 24/07/20      |  Zaf          | |
 | 31/07/20      |  Kai          | |
