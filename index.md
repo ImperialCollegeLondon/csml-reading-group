@@ -43,8 +43,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 29/05/20      |  Isak         | [Introduction to Coresets: Accurate Coresets](https://arxiv.org/abs/1910.08707) | Ibrahim Jubran et al. | [Slides](presentations/introduction_to_coresets.pdf)
 | 05/06/20      |  Adriaan      | [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424) | Charles Blundell et al.
 | 12/06/20      |  Kai          | [The frontier of simulation-based inference](https://www.pnas.org/content/early/2020/05/28/1912789117)| Kyle Cranmer et al. | [Slides](presentations/The%20Frontier%20of%20Simulation-based%20Inference.pdf)
-| 19/06/20      |  Daniel       | |
-| 26/06/20      |  Janith       | |
+| 19/06/20      |  Daniel       | [Sharp Minima Can Generalize For Deep Nets](https://arxiv.org/abs/1703.04933) | Laurent Dinh et al.
+| 26/06/20      |  Janith       | [A General Theory of Equivariant CNNs on Homogeneous Spaces](https://papers.nips.cc/paper/9114-a-general-theory-of-equivariant-cnns-on-homogeneous-spaces)| Taco S. Cohen, Mario Geiger & Maurice Weiler
 | 03/07/20      |               | |
 | 10/07/20      |               | |
 | 17/07/20      |               | |
