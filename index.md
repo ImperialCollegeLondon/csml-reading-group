@@ -46,7 +46,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 19/06/20      |  Daniel       | [Sharp Minima Can Generalize For Deep Nets](https://arxiv.org/abs/1703.04933) | Laurent Dinh et al.
 | 26/06/20      |  Janith       | [A General Theory of Equivariant CNNs on Homogeneous Spaces](https://papers.nips.cc/paper/9114-a-general-theory-of-equivariant-cnns-on-homogeneous-spaces)| Taco S. Cohen, Mario Geiger & Maurice Weiler
 | 03/07/20      |  Kate         | |
-| 10/07/20      |               | |
+| 10/07/20      |  Alex         | |
 | 17/07/20      |               | |
 | 24/07/20      |  Zaf          | |
 | 31/07/20      |  Kai          | |
