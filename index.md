@@ -45,8 +45,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 12/06/20      |  Kai          | [The frontier of simulation-based inference](https://www.pnas.org/content/early/2020/05/28/1912789117)| Kyle Cranmer et al. | [Slides](presentations/The%20Frontier%20of%20Simulation-based%20Inference.pdf)
 | 19/06/20      |  Daniel       | [Sharp Minima Can Generalize For Deep Nets](https://arxiv.org/abs/1703.04933) | Laurent Dinh et al.
 | 26/06/20      |  Janith       | [A General Theory of Equivariant CNNs on Homogeneous Spaces](https://papers.nips.cc/paper/9114-a-general-theory-of-equivariant-cnns-on-homogeneous-spaces)| Taco S. Cohen, Mario Geiger & Maurice Weiler
-| 03/07/20      |  Kate         | |
-| 10/07/20      |  Alex         | |
+| 03/07/20      |  Alex         | [On the Almost Sure Convergence of Stochastic Gradient Descent in Non-Convex Problems](https://arxiv.org/abs/2006.11144) | Panayotis Mertikopoulos, Nadav Hallak, Ali Kavis & Volkan Cevher
+| 10/07/20      |  Kate         | |
 | 17/07/20      |               | |
 | 24/07/20      |  Zaf          | |
 | 31/07/20      |  Kai          | |
