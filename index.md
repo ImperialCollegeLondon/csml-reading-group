@@ -47,6 +47,10 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 26/06/20      |  Janith       | [A General Theory of Equivariant CNNs on Homogeneous Spaces](https://papers.nips.cc/paper/9114-a-general-theory-of-equivariant-cnns-on-homogeneous-spaces)| Taco S. Cohen, Mario Geiger & Maurice Weiler
 | 03/07/20      |  Alex         | [On the Almost Sure Convergence of Stochastic Gradient Descent in Non-Convex Problems](https://arxiv.org/abs/2006.11144) | Panayotis Mertikopoulos, Nadav Hallak, Ali Kavis & Volkan Cevher
 | 10/07/20      |  Kate         | [Nonparametric Variational Auto-encoders for Hierarchical Representation Learning](https://openaccess.thecvf.com/content_ICCV_2017/papers/Goyal_Nonparametric_Variational_Auto-Encoders_ICCV_2017_paper.pdf)| Prasoon Goyal et al.
-| 17/07/20      |               | |
+| 17/07/20      |  Harrison     | [Bayesian Probabilistic Numerical Integration with Tree-Based Models](https://arxiv.org/abs/2006.05371)| Harrison Zhu et al.
 | 24/07/20      |  Zaf          | |
 | 31/07/20      |  Kai          | |
+| 07/08/20      |               | |
+| 14/08/20      |               | |
+| 21/08/20      |               | |
+| 28/08/20      |               | |
