@@ -50,7 +50,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 17/07/20      |  Harrison     | [Bayesian Probabilistic Numerical Integration with Tree-Based Models](https://arxiv.org/abs/2006.05371)| Harrison Zhu et al.
 | 24/07/20      |  Zaf          | |
 | 31/07/20      |  Kai          | |
-| 07/08/20      |               | |
+| 07/08/20      |  Aravind      | |
 | 14/08/20      |               | |
 | 21/08/20      |               | |
 | 28/08/20      |               | |
