@@ -49,8 +49,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 10/07/20      |  Kate         | [Nonparametric Variational Auto-encoders for Hierarchical Representation Learning](https://openaccess.thecvf.com/content_ICCV_2017/papers/Goyal_Nonparametric_Variational_Auto-Encoders_ICCV_2017_paper.pdf)| Prasoon Goyal et al.
 | 17/07/20      |  Harrison     | [Bayesian Probabilistic Numerical Integration with Tree-Based Models](https://arxiv.org/abs/2006.05371)| Harrison Zhu et al.
 | 24/07/20      |  Zaf          | [Deep active inference agents using Monte-Carlo methods](https://arxiv.org/pdf/2006.04176.pdf)| Zafeirios Fountas et al.
-| 31/07/20      |  Kai          | |
-| 07/08/20      |  Aravind      | |
+| 31/07/20      |  Kai          | [Transforming task representations to allow deep learning models to perform novel tasks ](https://arxiv.org/abs/2005.04318)| Andrew K. Lampinen & James L. McClelland
+| 07/08/20      |  Aravind      | [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839)| Stefan Wager & Susan Athey
 | 14/08/20      |               | |
 | 21/08/20      |               | |
 | 28/08/20      |               | |
