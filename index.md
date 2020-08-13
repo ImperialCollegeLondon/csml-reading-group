@@ -51,6 +51,6 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 24/07/20      |  Zaf          | [Deep active inference agents using Monte-Carlo methods](https://arxiv.org/pdf/2006.04176.pdf)| Zafeirios Fountas et al.
 | 31/07/20      |  Kai          | [Transforming task representations to allow deep learning models to perform novel tasks ](https://arxiv.org/abs/2005.04318)| Andrew K. Lampinen & James L. McClelland
 | 07/08/20      |  Aravind      | [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839)| Stefan Wager & Susan Athey
-| 14/08/20      |               | |
-| 21/08/20      |               | |
+| 14/08/20      | *Summer break*| |
+| 21/08/20      | *Summer break*| |
 | 28/08/20      |               | |
