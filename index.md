@@ -54,3 +54,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 14/08/20      | *Summer break*| |
 | 21/08/20      | *Summer break*| |
 | 28/08/20      |               | |
+| 04/09/20      |               | |
+| 11/09/20      |               | |
+| 18/09/20      |               | |
+| 25/09/20      |  Janith       | |
