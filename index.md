@@ -53,8 +53,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 07/08/20      |  Aravind      | [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839)| Stefan Wager & Susan Athey
 | 14/08/20      | *Summer break*| |
 | 21/08/20      | *Summer break*| |
-| 28/08/20      |               | |
-| 04/09/20      |               | |
+| 28/08/20      | Adriaan       | [Monte Carlo (importance) sampling within a benders decomposition algorithm for stochastic linear programs](https://link.springer.com/article/10.1007%2FBF02060936)| Gerd Infanger  | [Whiteboard notes](presentations/Monte%20Carlo%20(importance)%20sampling%20within%20a%20benders%20decomposition.png)
+| 04/09/20      | Jonathan      | [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://arxiv.org/abs/1910.03225)| Tony Duan et al.
 | 11/09/20      |               | |
 | 18/09/20      |               | |
 | 25/09/20      |  Janith       | |
