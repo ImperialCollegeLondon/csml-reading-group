@@ -55,6 +55,6 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 21/08/20      | *Summer break*| |
 | 28/08/20      | Adriaan       | [Monte Carlo (importance) sampling within a benders decomposition algorithm for stochastic linear programs](https://link.springer.com/article/10.1007%2FBF02060936)| Gerd Infanger  | [Whiteboard notes](presentations/Monte%20Carlo%20(importance)%20sampling%20within%20a%20benders%20decomposition.png)
 | 04/09/20      | Jonathan      | [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://arxiv.org/abs/1910.03225)| Tony Duan et al.
-| 11/09/20      |               | |
+| 11/09/20      | Chatura       | [Probabilistic Value-Deviation-Bounded Integer Codes for Approximate Communication](https://arxiv.org/abs/1804.02317)| Phillip Stanley-Marbell & Paul Hurley
 | 18/09/20      |               | |
 | 25/09/20      |  Janith       | |
