@@ -57,4 +57,4 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 04/09/20      | Jonathan      | [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://arxiv.org/abs/1910.03225)| Tony Duan et al.
 | 11/09/20      | Chatura       | [Probabilistic Value-Deviation-Bounded Integer Codes for Approximate Communication](https://arxiv.org/abs/1804.02317)| Phillip Stanley-Marbell & Paul Hurley
 | 18/09/20      |               | |
-| 25/09/20      |  Janith       | |
+| 25/09/20      |  Janith       | [On the Generalization of Equivariance and Convolution in Neural Networks to the Action of Compact Groups](https://arxiv.org/abs/1802.03690)| Risi Kondor & Shubhendu Trivedi
