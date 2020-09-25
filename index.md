@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to the homepage of the Imperial College London machine learing reading group.
+Welcome to the homepage of the Imperial College London machine learning reading group.
 We meet Fridays at 13:00 in ~~Huxley 658~~ online on MS Teams.
 Suggested papers can be found [here](suggested-papers).
 
