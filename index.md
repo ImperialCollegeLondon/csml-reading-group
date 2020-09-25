@@ -3,12 +3,24 @@ layout: default
 ---
 
 Welcome to the homepage of the Imperial College London machine learing reading group.
-We meet Fridays at 13:00 in Huxley 658.
+We meet Fridays at 13:00 in ~~Huxley 658~~ online on MS Teams.
 Suggested papers can be found [here](suggested-papers).
 
 To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/csml-reading-group).
 
-## Schedule
+## 2020-2021
+| Date          | Presenter     | Paper | Author(s) | Notes |
+|--------------:|:-------------:|-------|---------|---------|
+| 02/10/20      |               |       |         |
+| 09/10/20      |               |       |         |
+| 16/10/20      | Hans          |       |         |
+| 23/10/20      |               |       |         |
+| 30/10/20      |               |       |         |
+| 06/11/20      |               |       |         |
+| 13/11/20      |               |       |         |
+| 20/11/20      |               |       |         |
+
+## 2019-2020
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
