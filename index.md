@@ -9,6 +9,7 @@ Suggested papers can be found [here](suggested-papers).
 To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/csml-reading-group).
 
 ## 2020-2021
+
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 02/10/20      |               |       |         |
