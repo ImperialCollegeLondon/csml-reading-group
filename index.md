@@ -13,8 +13,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 02/10/20      |               |       |         |
-| 09/10/20      | Joe           |       |         |
-| 16/10/20      | Hans          |       |         |
+| 09/10/20      | Joe           | [Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training](https://arxiv.org/abs/2004.07790)      | Joe Stacey et al.        |
+| 16/10/20      | Hans          | [JDINAC: joint density-based non-parametric differential interaction network analysis and classification using high-dimensional sparse omics data](https://academic.oup.com/bioinformatics/article/33/19/3080/3861337)  | Jiadong Ji et al.        |
 | 23/10/20      |               |       |         |
 | 30/10/20      |               |       |         |
 | 06/11/20      |               |       |         |
