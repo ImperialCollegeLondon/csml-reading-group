@@ -20,6 +20,11 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 06/11/20      | Janith        | [Meta-Learning Symmetries by Reparameterization](https://arxiv.org/abs/2007.02933)      | Allan Zhou, Tom Knowles & Chelsea Finn        |
 | 13/11/20      | Daniel        |       |         |
 | 20/11/20      |               |       |         |
+| 27/11/20      |               |       |         |
+| 04/12/20      | Jonathan      |       |         |
+| 11/12/20      |               |       |         |
+| 18/12/20      |               |       |         |
+| 25/12/20      |               |       |         |
 
 ## 2019-2020
 
