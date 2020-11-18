@@ -18,9 +18,9 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 23/10/20      | Kate          | [A continual learning survey: Defying forgetting in classification tasks](https://arxiv.org/pdf/1909.08383.pdf)  |  Matthias De Lange et al.     | An Introduction to Continual Learning |
 | *break*       |               |       |         |
 | 06/11/20      | Janith        | [Meta-Learning Symmetries by Reparameterization](https://arxiv.org/abs/2007.02933)      | Allan Zhou, Tom Knowles & Chelsea Finn        |
-| 13/11/20      | Daniel        |       |         |
-| 20/11/20      |               |       |         |
-| 27/11/20      |               |       |         |
+| 13/11/20      | Daniel        | [GENNI: Visualising the Geometry of Equivalences for Neural Network Identifiability](https://arxiv.org/abs/2011.07407)      | Daniel Lengyel et al.         |
+| 20/11/20      | James         | [Estimation of active pharmaceutical ingredients content using locally weighted partial least squares and statistical wavelength selection](https://www.sciencedirect.com/science/article/pii/S0378517311009021)      | Sanghong Kim et al.        |
+| 27/11/20      | Kai           |       |         |
 | 04/12/20      | Jonathan      |       |         |
 | 11/12/20      |               |       |         |
 | 18/12/20      |               |       |         |
