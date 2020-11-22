@@ -20,7 +20,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 06/11/20      | Janith        | [Meta-Learning Symmetries by Reparameterization](https://arxiv.org/abs/2007.02933)      | Allan Zhou, Tom Knowles & Chelsea Finn        |
 | 13/11/20      | Daniel        | [GENNI: Visualising the Geometry of Equivalences for Neural Network Identifiability](https://arxiv.org/abs/2011.07407)      | Daniel Lengyel et al.         |
 | 20/11/20      | James         | [Estimation of active pharmaceutical ingredients content using locally weighted partial least squares and statistical wavelength selection](https://www.sciencedirect.com/science/article/pii/S0378517311009021)      | Sanghong Kim et al.        |
-| 27/11/20      | Kai           |       |         |
+| 27/11/20      | Kai           | [Training Agents using Upside-Down Reinforcement Learning](https://arxiv.org/abs/1912.02877)      | Rupesh Kumar Srivastava et al.        |
 | 04/12/20      | Jonathan      |       |         |
 | 11/12/20      |               |       |         |
 | 18/12/20      |               |       |         |
