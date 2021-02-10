@@ -25,9 +25,9 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | *break*       |               |       |         |
 | 29/01/21      | Kate          | [Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1507.00504)      | Nicolas Courty et al.         |
 | 05/02/21      | Adriaan       |  [Convolutional Gaussian Processes](https://arxiv.org/abs/1709.01894)     | Mark van der Wilk et al.        |
-| 12/02/21      | Jonathan      |       |         |
+| 12/02/21      | Jonathan      | [Image Representations Learned With Unsupervised Pre-Training Contain Human-like Biases](https://arxiv.org/abs/2010.15052)      | Ryan Steed & Aylin Caliskan        |
 | 19/02/21      |               |       |         |
-| 26/02/21      |               |       |         |
+| 26/02/21      | Michael       |       |         |
 | 05/03/21      |               |       |         |
 | 12/03/21      |               |       |         |
 
