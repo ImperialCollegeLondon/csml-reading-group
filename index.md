@@ -27,7 +27,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 05/02/21      | Adriaan       |  [Convolutional Gaussian Processes](https://arxiv.org/abs/1709.01894)     | Mark van der Wilk et al.        |
 | 12/02/21      | Jonathan      | [Image Representations Learned With Unsupervised Pre-Training Contain Human-like Biases](https://arxiv.org/abs/2010.15052)      | Ryan Steed & Aylin Caliskan        |
 | 19/02/21      |               |       |         |
-| 26/02/21      | Michael       |       |         |
+| 26/02/21      | Michael       | [Gaussian Processes for Survival Analysis](https://papers.nips.cc/paper/2016/file/ef1e491a766ce3127556063d49bc2f98-Paper.pdf)      | Tamara Fernández        |
 | 05/03/21      |               |       |         |
 | 12/03/21      |               |       |         |
 
