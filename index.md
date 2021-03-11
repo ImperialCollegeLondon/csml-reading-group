@@ -4,7 +4,7 @@ layout: default
 
 Welcome to the homepage of the Imperial College London machine learning reading group.
 We meet Fridays at 13:00 in ~~Huxley 658~~ online on MS Teams.
-Suggested papers can be found [here](suggested-papers).
+Suggested papers can be found [here](https://github.com/ImperialCollegeLondon/csml-reading-group/issues).
 
 To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/csml-reading-group).
 
