@@ -12,8 +12,20 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 26/03/21      |               |       |         |
-| 19/03/21      |               |       |         |
+| 18/07/21      |               |       |         |
+| 11/06/21      |               |       |         |
+| 04/06/21      |               |       |         |
+| 28/05/21      | Andrew Connell              |       |         |
+| 21/05/21      |               |       |         |
+| 14/05/21      | George Wynne              |  CovNet: Covariance Networks for Functional Data on Multidimensional Domains     |         |
+| 07/05/21      | Isak Falk              |       |         |
+| 30/04/21      | Swapnil Mishra              |       |         |
+| 23/04/21      | Tim Wolock              |       |         |
+| 16/04/21      | Thomas Mellan              |  Gaussian Process Nowcasting: Application to COVID-19 Mortality Reporting     |         |
+| 09/04/21      | Tresnia Berah   |Validated Variational Inference via Practical Posterior Error Bounds       |         |
+| 02/04/21      | *break*              |       |         |
+| 26/03/21      |  Harrison Zhu  | Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm      |         |
+| 19/03/21      |Xenia Miscouridou     | Modelling sparsity, heterogeneity, reciprocity and community structure in temporal interaction data      |         |
 | 26/02/21      | Michael       | [Gaussian Processes for Survival Analysis](https://papers.nips.cc/paper/2016/file/ef1e491a766ce3127556063d49bc2f98-Paper.pdf)      | Tamara Fernández        |
 | 19/02/21      |               |       |         |
 | 12/02/21      | Jonathan      | [Image Representations Learned With Unsupervised Pre-Training Contain Human-like Biases](https://arxiv.org/abs/2010.15052)      | Ryan Steed & Aylin Caliskan        |
@@ -30,24 +42,6 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 16/10/20      | Hans          | [JDINAC: joint density-based non-parametric differential interaction network analysis and classification using high-dimensional sparse omics data](https://academic.oup.com/bioinformatics/article/33/19/3080/3861337)  | Jiadong Ji et al.        |
 | 09/10/20      | Joe           | [Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training](https://arxiv.org/abs/2004.07790)      | Joe Stacey et al.        |
 | 02/10/20      |               |       |         |
-| 02/10/20      |               |       |         |
-| 09/10/20      | Joe           | [Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training](https://arxiv.org/abs/2004.07790)      | Joe Stacey et al.        |
-| 16/10/20      | Hans          | [JDINAC: joint density-based non-parametric differential interaction network analysis and classification using high-dimensional sparse omics data](https://academic.oup.com/bioinformatics/article/33/19/3080/3861337)  | Jiadong Ji et al.        |
-| 23/10/20      | Kate          | [A continual learning survey: Defying forgetting in classification tasks](https://arxiv.org/pdf/1909.08383.pdf)  |  Matthias De Lange et al.     | An Introduction to Continual Learning |
-| *break*       |               |       |         |
-| 06/11/20      | Janith        | [Meta-Learning Symmetries by Reparameterization](https://arxiv.org/abs/2007.02933)      | Allan Zhou, Tom Knowles & Chelsea Finn        |
-| 13/11/20      | Daniel        | [GENNI: Visualising the Geometry of Equivalences for Neural Network Identifiability](https://arxiv.org/abs/2011.07407)      | Daniel Lengyel et al.         |
-| 20/11/20      | James         | [Estimation of active pharmaceutical ingredients content using locally weighted partial least squares and statistical wavelength selection](https://www.sciencedirect.com/science/article/pii/S0378517311009021)      | Sanghong Kim et al.        |
-| 27/11/20      | Kai           | [Training Agents using Upside-Down Reinforcement Learning](https://arxiv.org/abs/1912.02877)      | Rupesh Kumar Srivastava et al.        |
-| 04/12/20      | Jonathan      | [Bayesian Deep Ensembles via the Neural Tangent Kernel](https://arxiv.org/abs/2007.05864)      | Bobby He, Balaji Lakshminarayanan and Yee Whye Teh        |
-| *break*       |               |       |         |
-| 29/01/21      | Kate          | [Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1507.00504)      | Nicolas Courty et al.         |
-| 05/02/21      | Adriaan       |  [Convolutional Gaussian Processes](https://arxiv.org/abs/1709.01894)     | Mark van der Wilk et al.        |
-| 12/02/21      | Jonathan      | [Image Representations Learned With Unsupervised Pre-Training Contain Human-like Biases](https://arxiv.org/abs/2010.15052)      | Ryan Steed & Aylin Caliskan        |
-| 19/02/21      |               |       |         |
-| 26/02/21      | Michael       | [Gaussian Processes for Survival Analysis](https://papers.nips.cc/paper/2016/file/ef1e491a766ce3127556063d49bc2f98-Paper.pdf)      | Tamara Fernández        |
-| 19/03/21      |               |       |         |
-| 26/03/21      |               |       |         |
 
 # 2019-2020
 
