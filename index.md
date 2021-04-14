@@ -12,9 +12,6 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 18/07/21      |               |       |         |
-| 11/06/21      |               |       |         |
-| 04/06/21      |               |       |         |
 | 28/05/21      | Andrew Connell              |       |         |
 | 21/05/21      |               |       |         |
 | 14/05/21      | George Wynne              |  CovNet: Covariance Networks for Functional Data on Multidimensional Domains     |         |
