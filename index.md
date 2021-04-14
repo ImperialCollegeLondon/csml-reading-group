@@ -12,6 +12,29 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
+| 26/03/21      |               |       |         |
+| 19/03/21      |               |       |         |
+| 26/02/21      | Michael       | [Gaussian Processes for Survival Analysis](https://papers.nips.cc/paper/2016/file/ef1e491a766ce3127556063d49bc2f98-Paper.pdf)      | Tamara Fernández        |
+| 19/02/21      |               |       |         |
+| 12/02/21      | Jonathan      | [Image Representations Learned With Unsupervised Pre-Training Contain Human-like Biases](https://arxiv.org/abs/2010.15052)      | Ryan Steed & Aylin Caliskan        |
+| 05/02/21      | Adriaan       |  [Convolutional Gaussian Processes](https://arxiv.org/abs/1709.01894)     | Mark van der Wilk et al.        |
+| 29/01/21      | Kate          | [Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1507.00504)      | Nicolas Courty et al.         |
+| *break*       |               |       |         |
+| 04/12/20      | Jonathan      | [Bayesian Deep Ensembles via the Neural Tangent Kernel](https://arxiv.org/abs/2007.05864)      | Bobby He, Balaji Lakshminarayanan and Yee Whye Teh        |
+| 27/11/20      | Kai           | [Training Agents using Upside-Down Reinforcement Learning](https://arxiv.org/abs/1912.02877)      | Rupesh Kumar Srivastava et al.        |
+| 20/11/20      | James         | [Estimation of active pharmaceutical ingredients content using locally weighted partial least squares and statistical wavelength selection](https://www.sciencedirect.com/science/article/pii/S0378517311009021)      | Sanghong Kim et al.        |
+| 13/11/20      | Daniel        | [GENNI: Visualising the Geometry of Equivalences for Neural Network Identifiability](https://arxiv.org/abs/2011.07407)      | Daniel Lengyel et al.         |
+| 06/11/20      | Janith        | [Meta-Learning Symmetries by Reparameterization](https://arxiv.org/abs/2007.02933)      | Allan Zhou, Tom Knowles & Chelsea Finn        |
+| *break*       |               |       |         |
+| 23/10/20      | Kate          | [A continual learning survey: Defying forgetting in classification tasks](https://arxiv.org/pdf/1909.08383.pdf)  |  Matthias De Lange et al.     | An Introduction to Continual Learning |
+| 16/10/20      | Hans          | [JDINAC: joint density-based non-parametric differential interaction network analysis and classification using high-dimensional sparse omics data](https://academic.oup.com/bioinformatics/article/33/19/3080/3861337)  | Jiadong Ji et al.        |
+| 09/10/20      | Joe           | [Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training](https://arxiv.org/abs/2004.07790)      | Joe Stacey et al.        |
+| 02/10/20      |               |       |         |
+
+
+
+
+
 | 02/10/20      |               |       |         |
 | 09/10/20      | Joe           | [Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training](https://arxiv.org/abs/2004.07790)      | Joe Stacey et al.        |
 | 16/10/20      | Hans          | [JDINAC: joint density-based non-parametric differential interaction network analysis and classification using high-dimensional sparse omics data](https://academic.oup.com/bioinformatics/article/33/19/3080/3861337)  | Jiadong Ji et al.        |
@@ -29,7 +52,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 19/02/21      |               |       |         |
 | 26/02/21      | Michael       | [Gaussian Processes for Survival Analysis](https://papers.nips.cc/paper/2016/file/ef1e491a766ce3127556063d49bc2f98-Paper.pdf)      | Tamara Fernández        |
 | 19/03/21      |               |       |         |
-| 12/03/21      |               |       |         |
+| 26/03/21      |               |       |         |
 
 ## 2019-2020
 
