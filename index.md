@@ -12,6 +12,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
+| 25/05/21	| Adam Howes	| Small-area estimation with aggregated Gaussian processes | Adam Howes | |
 | 18/05/21      | Juliette Unwin | [Multilevel Monte Carlo methods](https://www.cambridge.org/core/journals/acta-numerica/article/abs/div-classtitlemultilevel-monte-carlo-methodsdiv/C5AF9A57ED8FF8FDF08074C1071C5511)      | Michael B. Giles   |         |
 | 11/06/21      | Michael Komodromos | [Scalable Nonparametric Sampling from Multimodal Posteriors with the Posterior Bootstrap](https://arxiv.org/pdf/1902.03175.pdf)  | Edwin Fong et al.        |         |
 | 04/06/21      | Harrison Zhu  | [Multi-resolution Spatial Regression for Aggregated Data with an Application to Crop Yield Prediction](https://arxiv.org/abs/2105.0j1460) |  Harrison Zhu et al. |  |
