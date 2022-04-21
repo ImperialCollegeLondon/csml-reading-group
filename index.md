@@ -8,6 +8,12 @@ Suggested papers can be found [here](https://github.com/ImperialCollegeLondon/cs
 
 To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/csml-reading-group).
 
+## 2021-2022
+
+| Date          | Presenter     | Paper | Author(s) | Notes |
+|--------------:|:-------------:|-------|---------|---------|
+| 28/04/22	| Anish Dhir | Out of distribution generalisation using calibration | | |
+
 ## 2020-2021
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
