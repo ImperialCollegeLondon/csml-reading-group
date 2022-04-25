@@ -13,7 +13,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 28/04/22	| Anish Dhir | Out of distribution generalisation using calibration | | |
-| 26/05/22	| Märt Bakler, Donghu Guo, Hamzah Hashim and Alexander Pondaven | Convolutional Neural Processes for Inpainting Satellite Images | | |
+| 26/05/22	| Märt Bakler, Donghu Guo, Hamzah Hashim, Martin Ignatov and Alexander Pondaven | Convolutional Neural Processes for Inpainting Satellite Images | | |
 
 ## 2020-2021
 
