@@ -13,7 +13,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 26/05/22	| Märt Bakler, Donghu Guo, Hamzah Hashim, Martin Ignatov and Alexander Pondaven | Convolutional Neural Processes for Inpainting Satellite Images | | |
-| 02/05/22	| Galen, Wilkerson | Spontaneous Emergence of Computation in Network Cascades | | |
+| 12/05/22	| Artem Artemev | [Adaptive Cholesky Gaussian Processes](https://arxiv.org/abs/2202.10769) | Simon Bartels et al.| |
+| 05/05/22	| Galen Wilkerson | Spontaneous Emergence of Computation in Network Cascades | | |
 | 28/04/22	| Anish Dhir | Out of distribution generalisation using calibration | | |
 
 ## 2020-2021
