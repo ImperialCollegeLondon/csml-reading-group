@@ -14,7 +14,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 |--------------:|:-------------:|-------|---------|---------|
 | 14/07/22	| Kevin Huang |  | | |
 | 23/06/22	| Carles B. Rodas |  | | |
-| 16/06/22	| Tycho van der Ouderaa |  | | |
+| 16/06/22	| Tycho van der Ouderaa | Modern Laplace Approximations for Deep Learning | | |
 | 09/06/22	| Hamzah Hashim and Alexander Pondaven | Convolutional Neural Processes for Inpainting Satellite Images | | |
 | 19/05/22	| Wenlong Chen | Tutorial on (Stochastic Gradient) MCMC | | |
 | 12/05/22	| Artem Artemev | [Adaptive Cholesky Gaussian Processes](https://arxiv.org/abs/2202.10769) | Simon Bartels et al.| |
