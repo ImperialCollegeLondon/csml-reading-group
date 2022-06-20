@@ -12,6 +12,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
+| 28/07/22	| Wenlin Chen |  | | |
 | 14/07/22	| Kevin Huang |  | | |
 | 23/06/22	| Carles B. Rodas | Nonlinear ICA | | |
 | 16/06/22	| Tycho van der Ouderaa | Modern Laplace Approximations for Deep Learning | | |
