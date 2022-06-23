@@ -14,7 +14,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 |--------------:|:-------------:|-------|---------|---------|
 | 28/07/22	| Wenlin Chen |  | | |
 | 14/07/22	| Kevin Huang |  | | |
-| 23/06/22	| Carles B. Rodas | Nonlinear ICA | | |
+| 23/06/22	| Carles B. Rodas | Nonlinear ICA | | [slides](https://drive.google.com/file/d/1tEci50aCshgteA5EQT2hoEz5HHVdAjqp/view?usp=sharing) |
 | 16/06/22	| Tycho van der Ouderaa | Modern Laplace Approximations for Deep Learning | | |
 | 09/06/22	| Hamzah Hashim and Alexander Pondaven | Convolutional Neural Processes for Inpainting Satellite Images | | |
 | 19/05/22	| Wenlong Chen | Tutorial on (Stochastic Gradient) MCMC | | |
