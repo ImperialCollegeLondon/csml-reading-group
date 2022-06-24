@@ -12,6 +12,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
+| 25/08/22	| Tycho van der Ouderaa |  | | |
 | 28/07/22	| Wenlin Chen |  | | |
 | 14/07/22	| Kevin Huang |  | | |
 | 23/06/22	| Carles B. Rodas | Nonlinear ICA | | [slides](https://drive.google.com/file/d/1tEci50aCshgteA5EQT2hoEz5HHVdAjqp/view?usp=sharing) |
