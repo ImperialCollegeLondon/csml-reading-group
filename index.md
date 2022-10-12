@@ -8,13 +8,16 @@ Suggested papers can be found [here](https://github.com/ImperialCollegeLondon/cs
 
 To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/csml-reading-group).
 
-## 2021-2022
+## 2022-2023
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 17/11/22	| Wenlin Chen | [Meta-learning Feature Representations for Adaptive Gaussian Processes via Implicit Differentiation](https://arxiv.org/abs/2205.02708) | Wenlin Chen et al. | |
 | 10/11/22	| Kevin H. Huang | [Quantifying the Effects of Data Augmentation](https://arxiv.org/abs/2202.09134) | Kevin H. Huang et al. | |
 | 27/10/22	| Tycho van der Ouderaa | [Pathfinder: Parallel quasi-Newton variational inference](https://arxiv.org/abs/2108.03782) | Lu Zhang et al. | |
+
+## 2021-2022
+
 | 23/06/22	| Carles B. Rodas | Nonlinear ICA | | [slides](https://drive.google.com/file/d/1tEci50aCshgteA5EQT2hoEz5HHVdAjqp/view?usp=sharing) |
 | 16/06/22	| Tycho van der Ouderaa | Modern Laplace Approximations for Deep Learning | | |
 | 09/06/22	| Hamzah Hashim and Alexander Pondaven | Convolutional Neural Processes for Inpainting Satellite Images | | |
