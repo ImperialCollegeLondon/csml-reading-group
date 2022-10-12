@@ -18,6 +18,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 ## 2021-2022
 
+| Date          | Presenter     | Paper | Author(s) | Notes |
+|--------------:|:-------------:|-------|---------|---------|
 | 23/06/22	| Carles B. Rodas | Nonlinear ICA | | [slides](https://drive.google.com/file/d/1tEci50aCshgteA5EQT2hoEz5HHVdAjqp/view?usp=sharing) |
 | 16/06/22	| Tycho van der Ouderaa | Modern Laplace Approximations for Deep Learning | | |
 | 09/06/22	| Hamzah Hashim and Alexander Pondaven | Convolutional Neural Processes for Inpainting Satellite Images | | |
