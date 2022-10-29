@@ -13,7 +13,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 24/11/22	| Cristopher Salvi | [Neural Stochastic PDEs: Resolution-Invariant Learning of Continuous Spatiotemporal Dynamics](https://arxiv.org/abs/2110.10249) | Cristopher Salvi et al. | |
-| 17/11/22	| Wenlin Chen | [Meta-learning Feature Representations for Adaptive Gaussian Processes via Implicit Differentiation](https://arxiv.org/abs/2205.02708) | Wenlin Chen et al. | |
+| 17/11/22	| Wenlin Chen | [Meta-learning Adaptive Deep Kernel Gaussian Processes for Molecular Property Prediction](https://arxiv.org/abs/2205.02708) | Wenlin Chen et al. | |
 | 10/11/22	| Kevin H. Huang | [Quantifying the Effects of Data Augmentation](https://arxiv.org/abs/2202.09134) | Kevin H. Huang et al. | |
 | 27/10/22	| Tycho van der Ouderaa | [Pathfinder: Parallel quasi-Newton variational inference](https://arxiv.org/abs/2108.03782) | Lu Zhang et al. | |
 
