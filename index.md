@@ -13,7 +13,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 26/01/23	| Cristopher Salvi | [Neural Stochastic PDEs: Resolution-Invariant Learning of Continuous Spatiotemporal Dynamics](https://arxiv.org/abs/2110.10249) | Cristopher Salvi et al. | |
-| 08/12/22	| Vahid Balazadeh | [Partial Identification of Treatment Effects with Implicit Generative Models](https://arxiv.org/abs/2210.08139) | Vahid Balazadeh et al. | |
+| 19/01/23	| Vahid Balazadeh | [Partial Identification of Treatment Effects with Implicit Generative Models](https://arxiv.org/abs/2210.08139) | Vahid Balazadeh et al. | |
 | 24/11/22	| Harrison Zhu | Diffusion Models from an SDE Perspective | | |
 | 17/11/22	| Wenlin Chen | [Meta-learning Adaptive Deep Kernel Gaussian Processes for Molecular Property Prediction](https://arxiv.org/abs/2205.02708) | Wenlin Chen et al. | |
 | 10/11/22	| Kevin H. Huang | [Quantifying the Effects of Data Augmentation](https://arxiv.org/abs/2202.09134) | Kevin H. Huang et al. | |
