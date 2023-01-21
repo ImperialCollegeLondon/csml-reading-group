@@ -13,8 +13,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 16/02/23 | Max Weissenbacher | [Heating up decision boundaries: isocapacitory saturation, adversarial scenarios and generalization bounds](https://arxiv.org/abs/2101.06061) | Bogdan Georgiev et al. | |
+| 09/02/23	| Cristopher Salvi | [Neural Stochastic PDEs: Resolution-Invariant Learning of Continuous Spatiotemporal Dynamics](https://arxiv.org/abs/2110.10249) | Cristopher Salvi et al. | |
 | 02/02/23	| Guoxuan Xia | [Augmenting Softmax Information for Selective Classification with Out-of-Distribution Data](https://arxiv.org/abs/2207.07506) | Guoxuan Xia et al. | |
-| 26/01/23	| Cristopher Salvi | [Neural Stochastic PDEs: Resolution-Invariant Learning of Continuous Spatiotemporal Dynamics](https://arxiv.org/abs/2110.10249) | Cristopher Salvi et al. | |
 | 19/01/23	| Vahid Balazadeh | [Partial Identification of Treatment Effects with Implicit Generative Models](https://arxiv.org/abs/2210.08139) | Vahid Balazadeh et al. | |
 | 24/11/22	| Harrison Zhu | Diffusion Models from an SDE Perspective | | |
 | 17/11/22	| Wenlin Chen | [Meta-learning Adaptive Deep Kernel Gaussian Processes for Molecular Property Prediction](https://arxiv.org/abs/2205.02708) | Wenlin Chen et al. | |
