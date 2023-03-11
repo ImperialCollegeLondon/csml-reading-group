@@ -11,7 +11,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 09/03/23	| Martin Jørgensen | TBA | | |
+| 09/03/23	| Martin Jørgensen | [Bézier Gaussian Processes for Tall and Wide Data](https://arxiv.org/abs/2209.00343) | Martin Jørgensen et al. | |
 | 02/03/23	| Jose Folch | [Neural Diffusion Process](https://arxiv.org/abs/2206.03992) | Vincent Dutordoir et al. | |
 | 23/02/23	| Guoxuan Xia | [Augmenting Softmax Information for Selective Classification with Out-of-Distribution Data](https://arxiv.org/abs/2207.07506) | Guoxuan Xia et al. | |
 | 16/02/23 | Max Weissenbacher | [Heating up decision boundaries: isocapacitory saturation, adversarial scenarios and generalization bounds](https://arxiv.org/abs/2101.06061) | Bogdan Georgiev et al. | |
