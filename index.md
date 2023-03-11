@@ -2,9 +2,8 @@
 layout: default
 ---
 
-Welcome to the homepage of the Imperial College London machine learning reading group.
+Welcome to the homepage of the Imperial College London Computational Statistics and Machine Learning reading group.
 We meet Thursdays at 16:00 in Huxley 315 or online on MS Teams.
-Suggested papers can be found [here](https://github.com/ImperialCollegeLondon/csml-reading-group/issues).
 
 To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/csml-reading-group).
 
