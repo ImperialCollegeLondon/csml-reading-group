@@ -11,6 +11,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
+| 30/03/23	| Zijing Ou | The modern arts of discrete EBMs training and inference |  | |
+| 23/03/23	| Nihir Vedd, Zijing Ou, and Xing Liu | Casual discussion about the indication of GPT-4 to AI developments and research |  | |
 | 09/03/23	| Martin Jørgensen | [Bézier Gaussian Processes for Tall and Wide Data](https://arxiv.org/abs/2209.00343) | Martin Jørgensen et al. | |
 | 02/03/23	| Jose Folch | [Neural Diffusion Process](https://arxiv.org/abs/2206.03992) | Vincent Dutordoir et al. | |
 | 23/02/23	| Guoxuan Xia | [Augmenting Softmax Information for Selective Classification with Out-of-Distribution Data](https://arxiv.org/abs/2207.07506) | Guoxuan Xia et al. | |
