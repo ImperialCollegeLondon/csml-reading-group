@@ -11,6 +11,8 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
+| 11/05/23	| Panagiotis Tigas | [Differentiable Multi-Target Causal Bayesian Experimental Design](https://arxiv.org/abs/2302.10607) | Yashas Annadani et al. | |
+| 06/04/23	| Fadhel Ayed | [Over-parameterised Shallow Neural Networks with Asymmetrical Node Scaling: Global Convergence Guarantees and Feature Learning](https://arxiv.org/abs/2302.01002) | Francois Caron et al. | |
 | 30/03/23	| Zijing Ou | The modern arts of discrete EBMs training and inference |  | |
 | 23/03/23	| Nihir Vedd, Zijing Ou, and Xing Liu | Casual discussion about the indication of GPT-4 to AI developments and research |  | |
 | 09/03/23	| Martin Jørgensen | [Bézier Gaussian Processes for Tall and Wide Data](https://arxiv.org/abs/2209.00343) | Martin Jørgensen et al. | |
