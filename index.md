@@ -11,6 +11,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
+| 01/06/23	| Dinghuai Zhang | GFlowNets: Exploration for Structured Probabilistic Inference | | 
 | 25/05/23	| Jiaye Teng | [Predictive Inference with Feature Conformal Prediction](https://arxiv.org/abs/2210.00173) | Jiaye Teng et al. | |
 | 11/05/23	| Panagiotis Tigas | [Differentiable Multi-Target Causal Bayesian Experimental Design](https://arxiv.org/abs/2302.10607) | Yashas Annadani et al. | |
 | 06/04/23	| Fadhel Ayed | [Over-parameterised Shallow Neural Networks with Asymmetrical Node Scaling: Global Convergence Guarantees and Feature Learning](https://arxiv.org/abs/2302.01002) | Francois Caron et al. | |
