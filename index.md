@@ -11,6 +11,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
+| 13/07/23	| [Jin Xu | Deep Stochastic Processes via Functional Markov Transition Operators](https://arxiv.org/abs/2305.15574) | | |
 | 01/06/23	| Dinghuai Zhang | GFlowNets: Exploration for Structured Probabilistic Inference | | [slides](https://drive.google.com/file/d/1k3wdAqTMt2ldlxfarPSKpuNj3kTpVQqz/view?usp=sharing) | 
 | 25/05/23	| Jiaye Teng | [Predictive Inference with Feature Conformal Prediction](https://arxiv.org/abs/2210.00173) | Jiaye Teng et al. | |
 | 11/05/23	| Panagiotis Tigas | [Differentiable Multi-Target Causal Bayesian Experimental Design](https://arxiv.org/abs/2302.10607) | Yashas Annadani et al. | |
