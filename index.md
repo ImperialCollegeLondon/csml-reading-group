@@ -11,11 +11,12 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 09/11/23	| Fabrizio Russo | TBA | | |
-| 09/11/23	| Xavier Sumba-Toral | TBA | | |
-| 09/11/23	| Guoxuan Xia | TBA | | |
-| 09/11/23	| Tobias Schroeder | TBA | | |
+| 07/12/23	| Fabrizio Russo | TBA | | |
+| 30/11/23	| Xavier Sumba-Toral | TBA | | |
+| 23/11/23	| Guoxuan Xia | TBA | | |
+| 16/11/23	| Tobias Schroeder | TBA | | |
 | 09/11/23	| Stathi Fotiadis | TBA | | |
+| 02/11/23	| vacant | | | |
 | 26/10/23	| Yingzhen Li | [On the Identifiability of Markov Switching Models](https://arxiv.org/abs/2305.15925) | Carles Balsells-Rodas et al. | |
 
 ## 2022-2023
