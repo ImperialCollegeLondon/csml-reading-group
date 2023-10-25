@@ -7,6 +7,17 @@ We meet Thursdays at 16:00 in Huxley 315 or online on MS Teams.
 
 To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/csml-reading-group).
 
+## 2023-2024
+
+| Date          | Presenter     | Paper | Author(s) | Notes |
+|--------------:|:-------------:|-------|---------|---------|
+| 09/11/23	| Fabrizio Russo | TBA | | |
+| 09/11/23	| Xavier Sumba-Toral | TBA | | |
+| 09/11/23	| Guoxuan Xia | TBA | | |
+| 09/11/23	| Tobias Schroeder | TBA | | |
+| 09/11/23	| Stathi Fotiadis | TBA | | |
+| 26/10/23	| Yingzhen Li | [On the Identifiability of Markov Switching Models]([https://arxiv.org/abs/2305.15574](https://arxiv.org/abs/2305.15925) | Carles Balsells-Rodas et al. | |
+
 ## 2022-2023
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
