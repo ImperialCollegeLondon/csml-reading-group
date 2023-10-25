@@ -16,7 +16,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 09/11/23	| Guoxuan Xia | TBA | | |
 | 09/11/23	| Tobias Schroeder | TBA | | |
 | 09/11/23	| Stathi Fotiadis | TBA | | |
-| 26/10/23	| Yingzhen Li | [On the Identifiability of Markov Switching Models]([https://arxiv.org/abs/2305.15574](https://arxiv.org/abs/2305.15925) | Carles Balsells-Rodas et al. | |
+| 26/10/23	| Yingzhen Li | [On the Identifiability of Markov Switching Models]([https://arxiv.org/abs/2305.15574](https://arxiv.org/abs/2305.15925]) | Carles Balsells-Rodas et al. | |
 
 ## 2022-2023
 
