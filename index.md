@@ -11,6 +11,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
+| 01/02/24	| Matthieu Meeus | TBA | | |
 | 25/01/24	| Mingxuan Yi | TBA | | |
 | 18/01/24	| T. Anderson Keller | TBA | | |
 | 11/01/24	| Xiongjie Chen | TBA | | |
