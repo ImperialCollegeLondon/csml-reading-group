@@ -11,6 +11,9 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
+| 25/01/24	| Mingxuan Yi | TBA | | |
+| 18/01/24	| T. Anderson Keller | TBA | | |
+| 11/01/24	| Xiongjie Chen | TBA | | |
 | 07/12/23	| Fabrizio Russo | TBA | | |
 | 30/11/23	| Xavier Sumba-Toral | TBA | | |
 | 23/11/23	| Guoxuan Xia | TBA | | |
