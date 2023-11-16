@@ -18,7 +18,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 07/12/23	| Fabrizio Russo | TBA | | |
 | 30/11/23	| Xavier Sumba-Toral | TBA | | |
 | 23/11/23	| Guoxuan Xia | TBA | | |
-| 16/11/23	| Tobias Schroeder | TBA | | |
+| 16/11/23	| Tobias Schroeder | [Energy Discrepancy: Fast Training of Energy-Based Models without MCMC](https://arxiv.org/abs/2307.06431) | Schroeder et al. | |
 | 09/11/23	| Stathi Fotiadis | [Image generation with shortest path diffusion](https://arxiv.org/abs/2306.00501) | Ayan Das et al. | |
 | 02/11/23	| Tim Z. Xiao | What do we want from a generative model and how do we get it from a VAE? | | |
 | 26/10/23	| Yingzhen Li | [On the Identifiability of Markov Switching Models](https://arxiv.org/abs/2305.15925) | Carles Balsells-Rodas et al. | |
