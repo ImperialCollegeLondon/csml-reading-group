@@ -16,7 +16,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 25/01/24	| Mingxuan Yi | TBA | | |
 | 18/01/24	| T. Anderson Keller | TBA | | |
 | 11/01/24	| Xiongjie Chen | TBA | | |
-| 07/12/23	| Fabrizio Russo | TBA | | |
+| 07/12/23	| Fabrizio Russo | Shapley-PC: Constraint-based Causal Structure Learning with Shapley Values | | |
 | 30/11/23	| Xavier Sumba-Toral | Connecting the dots: a journey of message passing in PGMs and MPNNs for approximate inference | | |
 | 23/11/23	| Guoxuan Xia | [Window-Based Early-Exit Cascades for Uncertainty Estimation: When Deep Ensembles are More Efficient than Single Models](https://arxiv.org/abs/2303.08010) | Guoxuan Xia et al. | |
 | 16/11/23	| Tobias Schroeder | [Energy Discrepancy: Fast Training of Energy-Based Models without MCMC](https://arxiv.org/abs/2307.06431) | Tobias Schroeder et al. | |
