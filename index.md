@@ -12,6 +12,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 22/02/24	| Mengyue Yang | TBA | | |
+| 08/02/24	| Aras Selvi | It's all in the mix: Wasserstein machine learning with mixed features | Reza Belbasi et al. | |
 | 01/02/24	| Matthieu Meeus | TBA | | |
 | 25/01/24	| Mingxuan Yi | TBA | | |
 | 18/01/24	| T. Anderson Keller | TBA | | |
