@@ -16,7 +16,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 08/02/24	| Aras Selvi | [It's all in the mix: Wasserstein machine learning with mixed features](https://arxiv.org/abs/2312.12230) | Reza Belbasi et al. | |
 | 01/02/24	| Matthieu Meeus | TBA | | |
 | 25/01/24	| Mingxuan Yi | TBA | | |
-| 18/01/24	| T. Anderson Keller | TBA | | |
+| 18/01/24	| T. Anderson Keller | Traveling Waves in Brains and Machines | | |
 | 07/12/23	| Fabrizio Russo | Shapley-PC: Constraint-based Causal Structure Learning with Shapley Values | | |
 | 30/11/23	| Xavier Sumba-Toral | Connecting the dots: a journey of message passing in PGMs and MPNNs for approximate inference | | |
 | 23/11/23	| Guoxuan Xia | [Window-Based Early-Exit Cascades for Uncertainty Estimation: When Deep Ensembles are More Efficient than Single Models](https://arxiv.org/abs/2303.08010) | Guoxuan Xia et al. | |
