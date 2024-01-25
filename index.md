@@ -15,7 +15,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 15/02/24	| Xiongjie Chen | TBA | | |
 | 08/02/24	| Aras Selvi | [It's all in the mix: Wasserstein machine learning with mixed features](https://arxiv.org/abs/2312.12230) | Reza Belbasi et al. | |
 | 01/02/24	| Matthieu Meeus | TBA | | |
-| 25/01/24	| Mingxuan Yi | TBA | | |
+| 25/01/24	| Mingxuan Yi | Divergence Minimizations: From Sample Space to Parameter Space | | |
 | 18/01/24	| T. Anderson Keller | Traveling Waves in Brains and Machines | | |
 | 07/12/23	| Fabrizio Russo | Shapley-PC: Constraint-based Causal Structure Learning with Shapley Values | | |
 | 30/11/23	| Xavier Sumba-Toral | Connecting the dots: a journey of message passing in PGMs and MPNNs for approximate inference | | |
