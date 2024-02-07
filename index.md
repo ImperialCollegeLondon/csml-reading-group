@@ -13,7 +13,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 |--------------:|:-------------:|-------|---------|---------|
 | 22/02/24	| Mengyue Yang | TBA | | |
 | 15/02/24	| Xiongjie Chen | TBA | | |
-| 08/02/24	| Aras Selvi | [It's all in the mix: Wasserstein machine learning with mixed features](https://arxiv.org/abs/2312.12230) | Reza Belbasi et al. | |
+| 08/02/24	| Aras Selvi | Extending the Scope of Wasserstein Machine Learning | | |
 | 01/02/24	| Matthieu Meeus | [Did the Neurons Read Your Book? Document-level Membership Inference for LLMs](https://arxiv.org/abs/2310.15007) | Matthieu Meeus et al. | |
 | 25/01/24	| Mingxuan Yi | Divergence Minimizations: From Sample Space to Parameter Space | | |
 | 18/01/24	| T. Anderson Keller | Traveling Waves in Brains and Machines | | |
