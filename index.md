@@ -12,7 +12,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | TBA	| Xiongjie Chen | TBA | | |
-| 22/02/24	| Mengyue Yang | TBA | | |
+| TBA	| Mengyue Yang | TBA | | |
 | 08/02/24	| Aras Selvi | Extending the Scope of Wasserstein Machine Learning | | |
 | 01/02/24	| Matthieu Meeus | [Did the Neurons Read Your Book? Document-level Membership Inference for LLMs](https://arxiv.org/abs/2310.15007) | Matthieu Meeus et al. | |
 | 25/01/24	| Mingxuan Yi | Divergence Minimizations: From Sample Space to Parameter Space | | |
