@@ -12,7 +12,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | TBA	| Mengyue Yang | TBA | | |
-| 07/03/24 | Naoki Kiyohara | Beyond Attention: Unravelling the Potential of State Space Models for Sequential Data Processing | | | |
+| 07/03/24 | Naoki Kiyohara | Beyond Attention: Unravelling the Potential of State Space Models for Sequential Data Processing | | | [slides](https://drive.google.com/file/d/1GYwJq5VgMA_VqUW_QFZ7mwH3-x8iH9tb/view?usp=share_link) |
 | 29/02/24	| Xiongjie Chen | [Augmented Sliced Wasserstein Distances](https://arxiv.org/abs/2006.08812) | Xiongjie Chen et al. | |
 | 08/02/24	| Aras Selvi | Extending the Scope of Wasserstein Machine Learning | | |
 | 01/02/24	| Matthieu Meeus | [Did the Neurons Read Your Book? Document-level Membership Inference for LLMs](https://arxiv.org/abs/2310.15007) | Matthieu Meeus et al. | |
