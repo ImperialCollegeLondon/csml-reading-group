@@ -11,7 +11,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 21/03/24 | Mengyue Yang | Invariant Learning via Probability of Sufficient and Necessary Causes | | |
+| 21/03/24 | Mengyue Yang | [Invariant Learning via Probability of Sufficient and Necessary Causes](https://arxiv.org/abs/2309.12559#:~:text=To%20capture%20the%20information%20of,the%20necessary%20and%20sufficient%20cause.) | Mengyue Yang et al. | |
 | 07/03/24 | Naoki Kiyohara | Beyond Attention: Unravelling the Potential of State Space Models for Sequential Data Processing | | [slides](https://drive.google.com/file/d/1GYwJq5VgMA_VqUW_QFZ7mwH3-x8iH9tb/view?usp=share_link) |
 | 29/02/24	| Xiongjie Chen | [Augmented Sliced Wasserstein Distances](https://arxiv.org/abs/2006.08812) | Xiongjie Chen et al. | |
 | 08/02/24	| Aras Selvi | Extending the Scope of Wasserstein Machine Learning | | |
