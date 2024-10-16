@@ -12,7 +12,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 17/10/24	| Yingzhen Li | [Martingale posterior distributions](https://arxiv.org/abs/2103.15671) | Edwin Fong et al. | |
-| 7/11/24	| [Michael Li](https://zhuli-michael.github.io) | TBD | | |
+| 07/11/24	| Michael Li | TBD | | |
 | 21/11/24	| Shavindra Jayasekera | TBD | | |
 
 ## 2023-2024
