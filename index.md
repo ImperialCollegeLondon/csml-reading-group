@@ -7,6 +7,14 @@ We meet Thursdays at 16:00 in Huxley 315 or online on MS Teams.
 
 To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/csml-reading-group).
 
+## 2024-2025
+
+| Date          | Presenter     | Paper | Author(s) | Notes |
+|--------------:|:-------------:|-------|---------|---------|
+| 17/10/24	| Yingzhen Li | [Martingale posterior distributions](https://arxiv.org/abs/2103.15671) | Edwin Fong et al. | |
+| 7/11/24	| [Michael Li](https://zhuli-michael.github.io) | TBD | | |
+| 21/11/24	| Shavindra Jayasekera | TBD | | |
+
 ## 2023-2024
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
