@@ -14,6 +14,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 17/10/24	| Yingzhen Li | [Martingale posterior distributions](https://arxiv.org/abs/2103.15671) | Edwin Fong et al. | |
 | 07/11/24	| Michael Li | TBD | | |
 | 21/11/24	| Shavindra Jayasekera | TBD | | |
+| 28/11/24	| Jiajun He | [Training Neural Samplers with Reverse Diffusive KL Divergence](https://arxiv.org/pdf/2410.12456) | Jiajun He et al. | |
 
 ## 2023-2024
 
