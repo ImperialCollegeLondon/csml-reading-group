@@ -11,7 +11,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 17/10/24	| Yingzhen Li | [Martingale posterior distributions](https://arxiv.org/abs/2103.15671) | Edwin Fong et al. |[slides](https://github.com/ImperialCollegeLondon/csml-reading-group/blob/master/presentations/csml_17oct24_talk.pdf)|
+| 17/10/24	| Yingzhen Li | [Martingale posterior distributions](https://arxiv.org/abs/2103.15671) | Edwin Fong et al. |[slides](https://imperialcollegelondon.github.io/csml-reading-group/presentations/csml_17oct24_talk.pdf)|
 | 07/11/24	| Michael Li | TBD | | |
 | 21/11/24	| Shavindra Jayasekera | TBD | | |
 | 28/11/24	| Jiajun He, Wenlin Chen, Mingtian Zhang | [Training Neural Samplers with Reverse Diffusive KL Divergence](https://arxiv.org/pdf/2410.12456) | Jiajun He et al. | |
@@ -45,7 +45,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 25/05/23	| Jiaye Teng | [Predictive Inference with Feature Conformal Prediction](https://arxiv.org/abs/2210.00173) | Jiaye Teng et al. | |
 | 11/05/23	| Panagiotis Tigas | [Differentiable Multi-Target Causal Bayesian Experimental Design](https://arxiv.org/abs/2302.10607) | Yashas Annadani et al. | |
 | 06/04/23	| Fadhel Ayed | [Over-parameterised Shallow Neural Networks with Asymmetrical Node Scaling: Global Convergence Guarantees and Feature Learning](https://arxiv.org/abs/2302.01002) | Francois Caron et al. | |
-| 30/03/23	| Zijing Ou | The modern arts of discrete EBMs training and inference |  | |
+| 30/03/23	| Zijing Ou | The modern arts of discrete EBMs training and inference |  | [slides](https://j-zin.github.io/files/discrete_ebms.pdf) |
 | 23/03/23	| Nihir Vedd, Zijing Ou, and Xing Liu | Casual discussion about the indication of GPT-4 to AI developments and research |  | |
 | 09/03/23	| Martin Jørgensen | [Bézier Gaussian Processes for Tall and Wide Data](https://arxiv.org/abs/2209.00343) | Martin Jørgensen et al. | |
 | 02/03/23	| Jose Folch | [Neural Diffusion Process](https://arxiv.org/abs/2206.03992) | Vincent Dutordoir et al. | |
