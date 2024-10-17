@@ -3,7 +3,7 @@ layout: default
 ---
 
 Welcome to the homepage of the Imperial College London Computational Statistics and Machine Learning reading group.
-We meet Thursdays at 16:00 in Huxley 315 or online on MS Teams.
+We meet Thursdays at 16:00 in Huxley 218 or online on MS Teams.
 
 To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/csml-reading-group).
 
@@ -11,7 +11,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 17/10/24	| Yingzhen Li | [Martingale posterior distributions](https://arxiv.org/abs/2103.15671) | Edwin Fong et al. | |
+| 17/10/24	| Yingzhen Li | [Martingale posterior distributions](https://arxiv.org/abs/2103.15671) | Edwin Fong et al. |[slides](https://github.com/ImperialCollegeLondon/csml-reading-group/blob/master/presentations/csml_17oct24_talk.pdf)|
 | 07/11/24	| Michael Li | TBD | | |
 | 21/11/24	| Shavindra Jayasekera | TBD | | |
 | 28/11/24	| Jiajun He, Wenlin Chen, Mingtian Zhang | [Training Neural Samplers with Reverse Diffusive KL Divergence](https://arxiv.org/pdf/2410.12456) | Jiajun He et al. | |
