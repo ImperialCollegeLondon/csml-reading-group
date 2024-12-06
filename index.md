@@ -11,10 +11,12 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 06/02/25	| James Odgers |  |  | |
+| 13/03/25	| James Odgers | TBD |  | |
+| 06/02/25	| James Odgers | TBD |  | |
 | 23/01/25	| Hamidreza Kamkari | [A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models](https://arxiv.org/abs/2406.03537) | Hamidreza et al. | |
+| 05/12/24	| Ziyan Wang | [Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting](https://openreview.net/pdf?id=Ddak3nSqQM) | Ziyan Wang et al. | |
 | 28/11/24	| Jiajun He, Wenlin Chen, Mingtian Zhang | [Training Neural Samplers with Reverse Diffusive KL Divergence](https://arxiv.org/pdf/2410.12456) | Jiajun He et al. | |
-| 21/11/24	| Shavindra Jayasekera | TBD | | |
+| 21/11/24	| Shavindra Jayasekera | Elucidating LLMs: exploring techniques for intepretability in language models | | |
 | 07/11/24	| Michael Li | Multistage Learning in Reproducing Kernel Hilbert Space | Michael Li et al. | |
 | 17/10/24	| Yingzhen Li | [Martingale posterior distributions](https://arxiv.org/abs/2103.15671) | Edwin Fong et al. |[slides](https://imperialcollegelondon.github.io/csml-reading-group/presentations/csml_17oct24_talk.pdf)|
 
