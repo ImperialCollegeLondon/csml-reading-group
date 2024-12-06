@@ -11,7 +11,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 13/03/25	| James Odgers | TBD |  | |
+| 13/03/25	| Xinzhe Luo | TBD |  | |
 | 06/02/25	| James Odgers | TBD |  | |
 | 23/01/25	| Hamidreza Kamkari | [A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models](https://arxiv.org/abs/2406.03537) | Hamidreza et al. | |
 | 05/12/24	| Ziyan Wang | [Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting](https://openreview.net/pdf?id=Ddak3nSqQM) | Ziyan Wang et al. | |
