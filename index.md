@@ -12,7 +12,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 13/03/25	| Xinzhe Luo | TBD |  | |
-| 13/03/25	| Lapo Rastrelli | TBD |  | |
+| 06/03/25	| Lapo Rastrelli | TBD |  | |
 | 27/02/25	| Sangwoong Yoon | TBD |  | |
 | 20/02/25	| Matias  Altamirano | TBD |  | |
 | 13/02/25	| Hamidreza Kamkari | [A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models](https://arxiv.org/abs/2406.03537) | Hamidreza et al. | |
