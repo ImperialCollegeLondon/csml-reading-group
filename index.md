@@ -11,6 +11,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
+| 27/03/25	| Jiajun He | TBD |  | |
 | 13/03/25	| Xinzhe Luo | TBD |  | |
 | 06/03/25	| Lapo Rastrelli | TBD |  | |
 | 27/02/25	| Sangwoong Yoon | TBD |  | |
