@@ -16,7 +16,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 27/02/25	| Sangwoong Yoon | TBD |  | |
 | 20/02/25	| Matias  Altamirano | TBD |  | |
 | 13/02/25	| Hamidreza Kamkari | [A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models](https://arxiv.org/abs/2406.03537) | Hamidreza et al. | |
-| 06/02/25	| Zonghao Chen | TBD |  | |
+| 06/02/25	| Zonghao Chen | [Nested Expectations with Kernel Quadrature](Conditional Bayesian Quadrature) | Zonghao Chen et al. | |
 | 05/12/24	| Ziyan Wang | [Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting](https://openreview.net/pdf?id=Ddak3nSqQM) | Ziyan Wang et al. | |
 | 28/11/24	| Jiajun He, Wenlin Chen, Mingtian Zhang | [Training Neural Samplers with Reverse Diffusive KL Divergence](https://arxiv.org/pdf/2410.12456) | Jiajun He et al. | |
 | 21/11/24	| Shavindra Jayasekera | Elucidating LLMs: exploring techniques for intepretability in language models | | |
