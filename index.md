@@ -13,7 +13,6 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 |--------------:|:-------------:|-------|---------|---------|
 | 27/03/25	| Jiajun He | TBD |  | |
 | 13/03/25	| Xinzhe Luo | TBD |  | |
-| 06/03/25	| Lapo Rastrelli | TBD |  | |
 | 27/02/25	| Sangwoong Yoon | Generative Modeling is Imitation Learning and Sampling is Reinforcement Learning | Sangwoong Yoon et al. | |
 | 20/02/25	| Matias  Altamirano | Robust and Conjugate Gaussian Process Regression | Matias et al. | |
 | 13/02/25	| Hamidreza Kamkari | [A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models](https://arxiv.org/abs/2406.03537) | Hamidreza et al. | |
