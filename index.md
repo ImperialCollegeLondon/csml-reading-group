@@ -3,16 +3,28 @@ layout: default
 ---
 
 Welcome to the homepage of the Imperial College London Computational Statistics and Machine Learning reading group.
-We meet Thursdays at 16:00 in Huxley 218 or online on MS Teams.
+We meet Thursdays at 15:00 in Huxley 218 or online on MS Teams.
 
 To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/csml-reading-group).
+
+## 2025-2026
+
+| Date          | Presenter     | Paper | Author(s) | Notes |
+|--------------:|:-------------:|-------|---------|---------|
+| 27/11/25	| call for presenter | TBD |  | |
+| 20/11/25	| call for presenter | TBD |  | |
+| 13/11/25	| call for presenter | TBD |  | |
+| 6/11/25	| call for presenter | TBD |  | |
+| 30/10/25	| call for presenter | TBD |  | |
+| 23/10/25	| Johnny Xi | TBD |  | |
+| 16/10/25	| Yingzhen Li | TBD |  | |
 
 ## 2024-2025
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 27/03/25	| Jiajun He | TBD |  | |
-| 13/03/25	| Xinzhe Luo | TBD |  | |
+| 27/03/25	| Jiajun He | Diffusion-Based Neural Samplers: A Systematic Review and Open Questions |  | |
+| 13/03/25	| Xinzhe Luo | Tutorial on generative models for inverse problems |  | |
 | 27/02/25	| Sangwoong Yoon | Generative Modeling is Imitation Learning and Sampling is Reinforcement Learning | Sangwoong Yoon et al. | |
 | 20/02/25	| Matias  Altamirano | Robust and Conjugate Gaussian Process Regression | Matias et al. | |
 | 13/02/25	| Hamidreza Kamkari | [A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models](https://arxiv.org/abs/2406.03537) | Hamidreza et al. | |
