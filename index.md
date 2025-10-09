@@ -12,7 +12,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 27/11/25	| call for presenter | TBD |  | |
-| 20/11/25	| call for presenter | TBD |  | |
+| 20/11/25	| Yi Wu (tentative) | TBD |  | |
 | 13/11/25	| call for presenter | TBD |  | |
 | 6/11/25	| call for presenter | TBD |  | |
 | 30/10/25	| Lin Zheng | TBD |  | |
