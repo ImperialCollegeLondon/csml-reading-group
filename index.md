@@ -11,13 +11,13 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 27/11/25	| call for presenter | TBD |  | |
+| 27/11/25	| Robin Ryder  | TBD |  | |
 | 20/11/25	| Yi Wu (tentative) | TBD |  | |
-| 13/11/25	| call for presenter | TBD |  | |
+| 13/11/25	| Guozan Xia | TBD |  | |
 | 6/11/25	| call for presenter | TBD |  | |
 | 30/10/25	| Lin Zheng | TBD |  | |
 | 23/10/25	| Johnny Xi | TBD |  | |
-| 16/10/25	| Yingzhen Li | TBD |  | |
+| 16/10/25	| Yingzhen Li | tutorial of risk-based definition of uncertainty |  | |
 
 ## 2024-2025
 
