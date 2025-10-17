@@ -14,7 +14,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 | 27/11/25	| Robin Ryder  | TBD |  | |
 | 20/11/25	| Yi Wu (tentative) | TBD |  | |
 | 13/11/25	| Guozan Xia | TBD |  | |
-| 6/11/25	| call for presenter | TBD |  | |
+| 6/11/25	| Oussama Zekri | TBD |  | |
 | 30/10/25	| Lin Zheng | TBD |  | |
 | 23/10/25	| Johnny Xi | TBD |  | |
 | 16/10/25	| Yingzhen Li | tutorial of risk-based definition of uncertainty |  | [talk note](https://github.com/ImperialCollegeLondon/csml-reading-group/blob/master/presentations/Short_tutorial_on_risk-based_definition_of_uncertainty.pdf) |
