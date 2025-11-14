@@ -13,7 +13,7 @@ To get the latest updates, sign up to the [mailing list](https://mailman.ic.ac.u
 |--------------:|:-------------:|-------|---------|---------|
 | 27/11/25	| Robin Ryder  | TBD |  | |
 | 20/11/25	| Yi Wu (tentative) | TBD |  | |
-| 13/11/25	| Guozan Xia | Uncertainty Estimation for Image Generation | Guozan Xia et al. | |
+| 13/11/25	| Guoxuan Xia | Uncertainty Estimation for Image Generation | Guoxuan Xia et al. | |
 | 6/11/25	| Oussama Zekri | Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods | Oussama Zekri et al. | |
 | 30/10/25	| Lin Zheng | Scalable Diffusion Language Modeling | Lin Zheng et al. | |
 | 23/10/25	| Johnny Xi | Causal Velocity Models | Johnny Xi et al. | |
