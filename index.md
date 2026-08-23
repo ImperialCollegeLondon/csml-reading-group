@@ -11,13 +11,20 @@ To get the latest updates, sign up to the [mailing list](https://mailing-lists.i
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 27/11/25	| Robin Ryder  | TBD |  | |
-| 20/11/25	| Yi Wu (tentative) | TBD |  | |
-| 13/11/25	| Guoxuan Xia | Uncertainty Estimation for Image Generation | Guoxuan Xia et al. | |
-| 6/11/25	| Oussama Zekri | Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods | Oussama Zekri et al. | |
-| 30/10/25	| Lin Zheng | Scalable Diffusion Language Modeling | Lin Zheng et al. | |
-| 23/10/25	| Johnny Xi | Causal Velocity Models | Johnny Xi et al. | |
-| 16/10/25	| Yingzhen Li | tutorial of risk-based definition of uncertainty |  | [talk note](https://github.com/ImperialCollegeLondon/csml-reading-group/blob/master/presentations/Short_tutorial_on_risk-based_definition_of_uncertainty.pdf) |
+| 12/03/26	| [Ambroise Odonnat](https://ambroiseodt.github.io/) | [Provable Benefits of In-Tool Learning for Large Language Models](https://arxiv.org/abs/2508.20755) | Sam Houliston et al. | |
+| 05/03/26	| [Samuel Matthiesen](https://samuel.nihil.ws) | [VIKING: Deep Variational Inference with Stochastic Projections](https://arxiv.org/abs/2510.23684) | Samuel G. Fadel et al. | |
+| 26/02/26	| [Yingzhen Li](http://yingzhenli.net/home/en/) | AI Tools for StatML Research? Personal Reflections |  | |
+| 19/02/26	| [Kianoosh Ashouritaklimi](https://kiaashour.github.io/) | [Robust Bayes-Assisted Conformal Prediction](https://arxiv.org/abs/2607.04236) | Kianoosh Ashouritaklimi et al. | |
+| 05/02/26	| [Jiajun He](https://jiajunhe98.github.io/) | Probabilistic inference on path and where to find it | Jiajun He | |
+| 22/01/26	| Daniil Shmelev | [Explicit and Effectively Symmetric Schemes for Neural Differential Equations](https://arxiv.org/abs/2507.21006) | Daniil Shmelev et al. | |
+| 15/01/26	| [Martin Marek](https://marek.cc) | [Small Batch Size Training for Language Models](https://arxiv.org/abs/2507.07101) | Martin Marek et al. | |
+| 27/11/25	| [Robin Ryder](https://sites.google.com/site/robryd/)  | [Permutations accelerate Approximate Bayesian Computation](https://arxiv.org/abs/2507.06037) | Antoine Luciano, Charly Andral, Christian P. Robert, Robin J. Ryder | |
+| 20/11/25	| [Yi Wu](https://jxwuyi.weebly.com/) (tentative) | TBD |  | |
+| 13/11/25	| Guoxuan Xia | Uncertainty Estimation for Image Generation ([Generative Uncertainty in Diffusion Models](https://arxiv.org/abs/2502.20946), [Towards Understanding and Quantifying Uncertainty for Text-to-Image Generation](https://arxiv.org/abs/2412.03178)) | Metod Jazbec, Eliot Wong-Toi, Guoxuan Xia, Dan Zhang, Eric Nalisnick, Stephan Mandt; Gianni Franchi, Dat Nguyen Trong, Nacim Belkhir, Guoxuan Xia, Andrea Pilzer | |
+| 6/11/25	| [Oussama Zekri](https://oussamazekri.fr/) | [Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods](https://arxiv.org/abs/2502.01384) | Oussama Zekri & Nicolas Boullé | |
+| 30/10/25	| [Lin Zheng](https://lzhengisme.github.io/) | Scalable Diffusion Language Modeling ([RDM](https://arxiv.org/abs/2302.05737), [Dream 7B](https://arxiv.org/abs/2508.15487), [Dream-Coder 7B](https://arxiv.org/abs/2509.01142), [DreamOn](https://arxiv.org/abs/2602.01326)) | Lin Zheng et al. | |
+| 23/10/25	| [Johnny Xi](https://xijohnny.github.io/) | [Distinguishing Cause from Effect with Causal Velocity Models](https://arxiv.org/abs/2502.05122) | Johnny Xi et al. | |
+| 16/10/25	| [Yingzhen Li](http://yingzhenli.net/home/en/) | tutorial of risk-based definition of uncertainty |  | [talk note](https://github.com/ImperialCollegeLondon/csml-reading-group/blob/master/presentations/Short_tutorial_on_risk-based_definition_of_uncertainty.pdf) |
 
 ## 2024-2025
 
