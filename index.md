@@ -3,9 +3,16 @@ layout: default
 ---
 
 Welcome to the homepage of the Imperial College London Computational Statistics and Machine Learning reading group.
-We meet Thursdays at 15:00 in Huxley 218 or online on MS Teams.
+We meet Thursdays at 15:00 in Huxley 315 or online on MS Teams.
 
 To get the latest updates, sign up to the [mailing list](https://mailing-lists.imperial.ac.uk/mailman3/lists/csml-reading-group.imperial.ac.uk/).
+
+## 2026-2027
+
+| Date          | Presenter     | Paper | Author(s) | Notes |
+|--------------:|:-------------:|-------|---------|---------|
+| 19/11/26	| [Yingzhen Li](http://yingzhenli.net/home/en/) | AI Tool Usage |  | |
+| 12/11/26	| Tim Wang | TBC |  | |
 
 ## 2025-2026
 
