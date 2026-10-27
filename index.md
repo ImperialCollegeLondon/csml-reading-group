@@ -11,7 +11,7 @@ To get the latest updates, sign up to the [mailing list](https://mailing-lists.i
 
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
-| 19/11/26	| [Yingzhen Li](http://yingzhenli.net/home/en/) | AI Tool Usage |  | |
+| 19/11/26	| [Yingzhen Li](http://yingzhenli.net/home/en/) | Using AI Tools in Statistics and Machine Learning Research |  | |
 | 12/11/26	| Tim Wang | TBC |  | |
 
 ## 2025-2026
