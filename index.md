@@ -12,7 +12,7 @@ To get the latest updates, sign up to the [mailing list](https://mailing-lists.i
 | Date          | Presenter     | Paper | Author(s) | Notes |
 |--------------:|:-------------:|-------|---------|---------|
 | 19/11/26	| [Yingzhen Li](http://yingzhenli.net/home/en/) | Using AI Tools in Statistics and Machine Learning Research |  | |
-| 12/11/26	| Tim Wang | TBC |  | |
+| 12/11/26	| Tim Wang | [Consistency and Diffusion-regularised Gradient Flows for Inverse Problems](https://arxiv.org/abs/2605.07907) | Alessio Spagnoletti, Tim Y. J. Wang, Marcelo Pereyra, O. Deniz Akyildiz | |
 
 ## 2025-2026
 

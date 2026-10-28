@@ -14,3 +14,9 @@
 table {
   width: 100%;
 }
+// Same column widths in every table: Date, Presenter, Paper, Author(s), Notes
+th:nth-child(1) { width: 13%; }
+th:nth-child(2) { width: 19%; }
+th:nth-child(3) { width: 30%; }
+th:nth-child(4) { width: 27%; }
+th:nth-child(5) { width: 11%; }
